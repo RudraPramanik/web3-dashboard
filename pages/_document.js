@@ -9,6 +9,10 @@ class MyDocument extends Document {
           <Main />
           <NextScript />
         </body>
+        {/* <body className="font-jetBrains">
+          <Main />
+          <NextScript />
+        </body> */}
       </Html>
     );
   }
